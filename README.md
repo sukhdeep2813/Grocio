@@ -16,6 +16,17 @@ Grocio is an interactive online grocery delivery platform, delivering fresh prod
 
 ---
 
+## 🧑‍💻 Tech Stack
+
+Grocio is built on the **MERN stack**:
+
+- <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="12"/> **MongoDB** – NoSQL database for storing products, users, and orders.
+- <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" width="12"/> **Express.js** – Backend framework for building REST APIs.
+- <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="12"/> **React.js** – Frontend library for interactive UI.
+- <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="12"/> **Node.js** – Runtime environment for the backend.
+
+---
+
 ## 🧑‍💻 Getting Started
 
 ### Prerequisites
@@ -76,9 +87,13 @@ Visit [Grocio Live](https://grocio-6g42.vercel.app/) for the deployed interactiv
 
 ## 📱 Social & Community
 
-Connect and interact with us:
-- [Linkidin](https://www.linkedin.com/in/sukhdeep-1599b2256/)
+Connect and interact with us:<br>
+<a href="https://www.linkedin.com/in/sukhdeep-1599b2256/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="24"/>
+  LinkedIn
+</a>
 
+---
 
 > **Need help or have a feature suggestion?**  
 > Use the [issue tracker](https://github.com/sukhdeep2813/Grocio/issues) or chat with our support team directly in the app!
