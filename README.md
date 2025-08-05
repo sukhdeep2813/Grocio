@@ -77,18 +77,8 @@ Visit [Grocio Live](https://grocio-6g42.vercel.app/) for the deployed interactiv
 ## 📱 Social & Community
 
 Connect and interact with us:
-- [Instagram](#)
-- [Twitter](#)
-- [Facebook](#)
-- [YouTube](#)
+- [Linkidin](https://www.linkedin.com/in/sukhdeep-1599b2256/)
 
----
-
-## 📄 License
-
-This project currently does not specify a license.
-
----
 
 > **Need help or have a feature suggestion?**  
 > Use the [issue tracker](https://github.com/sukhdeep2813/Grocio/issues) or chat with our support team directly in the app!
