@@ -3,12 +3,8 @@ import { check, sleep } from "k6";
 import { thresholds, BASE_URL } from "../config/threshold.js";
 
 export const options = {
-  stages: [
-    { duration: "1m", target: 100 }, // Normal load
-    { duration: "2m", target: 150 }, // Heavy load
-    { duration: "2m", target: 250 }, // Stress point!
-    { duration: "1m", target: 0 }, //cool down
-  ],
+  vus: 1,
+  duration: "30s",
   thresholds: thresholds,
 };
 
@@ -19,6 +15,4 @@ export default function () {
     console.log(`Error: ${resProducts.status} on ${resProducts.url}`);
     console.log(`Body: ${resProducts.body}`);
   }
-
-  sleep(1);
 }
