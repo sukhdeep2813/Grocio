@@ -60,7 +60,7 @@ npm start
 yarn start
 ```
 
-Visit [Grocio Live](https://grocio-6g42.vercel.app/) for the deployed interactive experience.
+Visit [Grocio Live](https://groceries-iu9v.vercel.app/) for the deployed interactive experience.
 
 ---
 
